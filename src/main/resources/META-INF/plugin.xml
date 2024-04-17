@@ -3,6 +3,15 @@
     <id>xyz.perspect.jetbrains</id>
     <name>perspect</name>
     <vendor>perspect</vendor>
+    <description><![CDATA[
+        Perspect for Jetbrains. Collect metrics, insights, and time tracking automatically from your programming activity.
+        <ul>
+            <li>Use your IDE like you normally do and your time will be tracked for you automatically.</li>
+            <li>Visit https://app.perspect.xyz to see your logged time.</li>
+        </ul>
+
+        Source Code: <a href="https://github.com/GetPerspectdev/jetbrains-perspect">https://github.com/GetPerspectdev/jetbrains-perspect</a>
+    ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
     <depends>com.intellij.modules.lang</depends>

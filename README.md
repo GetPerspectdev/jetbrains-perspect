@@ -7,8 +7,7 @@
 [comment]: <> ([![Downloads]&#40;https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg&#41;]&#40;https://plugins.jetbrains.com/plugin/PLUGIN_ID&#41;)
 
 <!-- Plugin description -->
-Metrics, insights, and time tracking automatically generated from your programming activity.
-Source Code:  <a href="https://github.com/GetPerspectdev/jetbrains-perspect">https://github.com/GetPerspectdev/jetbrains-perspect</a>
+Perspect plugin for Jetbrains. Collect metrics, insights, and time tracking automatically from your programming activity.
 <!-- Plugin description end -->
 
 ## Installation
