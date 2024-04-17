@@ -23,35 +23,4 @@
             <add-to-group group-id="ToolsMenu" anchor="first" />
         </action>
     </actions>
-
-    <description><![CDATA[
-      Metrics, insights, and time tracking automatically generated from your programming activity.<br />
-      <br />
-      <b>Installation</b><br />
-      <br />
-      1. Inside your IDE, select Preferences -> Plugins -> Browse Repositories....<br />
-      <br />
-      2. Search for Perspect.<br />
-      <br />
-      3. Click the green Install Plugin button and confirm the installation.<br />
-      <br />
-      4. Re-launch your IDE.<br />
-      <br />
-      5. Enter your <a href="https://app.perspect.xyz/account">api key</a>, then click Save.<br />
-      <br />
-      6. Use your IDE like you normally do and your time will be tracked for you automatically.<br />
-      <br />
-      7. Visit https://app.perspect.xyz to see your logged time.<br />
-      <br />
-      Source Code:  <a href="https://github.com/GetPerspectdev/jetbrains-perspect">https://github.com/GetPerspectdev/jetbrains-perspect</a>
-    ]]></description>
-
-    <change-notes><![CDATA[
-        1.0.0 (2014-03-21)<br />
-        ++++++++++++++++++<br />
-        <br />
-        - Initial Release<br />
-        <br />
-        <a href="https://github.com/getperspectdev/jetbrains-perspect/blob/main/HISTORY.rst">See more changes...</a>
-    ]]></change-notes>
 </idea-plugin>
