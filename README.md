@@ -1,10 +1,8 @@
 # jetbrains-perspect
 
 ![Build](https://github.com/GetPerspectdev/jetbrains-perspect/workflows/Build/badge.svg)
-
-[comment]: <> ([![Version]&#40;https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg&#41;]&#40;https://plugins.jetbrains.com/plugin/PLUGIN_ID&#41;)
-
-[comment]: <> ([![Downloads]&#40;https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg&#41;]&#40;https://plugins.jetbrains.com/plugin/PLUGIN_ID&#41;)
+[![Version](https://img.shields.io/jetbrains/plugin/v/xyz.perspect.jetbrains.svg)](https://plugins.jetbrains.com/plugin/xyz.perspect.jetbrains)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/xyz.perspect.jetbrains.svg)](https://plugins.jetbrains.com/plugin/xyz.perspect.jetbrains)
 
 <!-- Plugin description -->
 Perspect plugin for Jetbrains. Collect metrics, insights, and time tracking automatically from your programming activity.
